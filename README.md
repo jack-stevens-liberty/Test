@@ -12,3 +12,9 @@ ahhh
 is this on the same line
 i pressed O for this one
 and enter on this one
+
+test
+test again but enter
+
+test then double space after this  
+am i on my own line??
